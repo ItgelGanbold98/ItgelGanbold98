@@ -1,6 +1,6 @@
 # 👋 Hi all, I’m Itgel
 
-I am working towards getting my Master's in Computer Science at UCD and I have a Bachelor's in Theoretical Physics from UCD as well.
+I am currently pursuing my Master's degree in Computer Science at UCD, with an anticipated completion date in December. Prior to this, I obtained a Bachelor's degree in Theoretical Physics from UCD.
 
 - 👀 I’m interested in all things problem-solving: coding, physics, mathematics and more! I love video games, art and history as well.
 - 💞️ I have worked on a number of projects during my internship with the School of Physics.
