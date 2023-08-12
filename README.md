@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItgelGanbold98](https://github.com/ItgelGanbold98)
 
-- 💬 Ask me about **react, python, physics and maths**
+- 💬 Ask me about **React, JS, Python, and all things physics and maths**
 
 - 📫 How to reach me **itgel.ganbold@ucdconnect.ie**
 
