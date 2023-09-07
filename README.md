@@ -1,10 +1,10 @@
 <img align="center" alt="Coding" style="object-fit: cover; width: 666px; height: 300px;" src= "https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w" />
 <h1 align="center">Hi 👋, I'm Itgel</h1>
-<h3 align="center">A passionate Computer Scientist and a Master's student at UCD</h3>
+<h3 align="center">A passionate Computer Scientist and a Master's student at UCD, <a href='https://itgelganbold.com' target='_blank'>visit my portfolio</a> </h3> 
 <img align="right" alt="Coding" width = "400" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itgelganbold98&label=Profile%20views&color=0e75b6&style=flat" alt="itgelganbold98" /> </p>
 
-- 🔭 I’m currently working on [AutoMate Web Application](https://github.com/ItgelGanbold98/AutoMate-NYC)
+- 🔭 I just finished work on [AutoMate Web Application](https://github.com/ItgelGanbold98/AutoMate-NYC) 
 
 - 🌱 I’m currently learning **React, Docker, Spring-Boot, Postgres**
 
