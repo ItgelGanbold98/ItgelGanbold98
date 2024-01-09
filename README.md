@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,react,html,css,docker,kubernetes,git,ruby,java,cpp,postgres,mysql,mongodb,nodejs,nextjs,expressjs,bash,figma,flask,materialui,maven,spring,nginx,rabbitmq,rails,sklearn,vscode,visualstudio&perline=10)](https://github.com/ItgelGanbold98)
+[![My Skills](https://skillicons.dev/icons?i=aws,py,react,html,css,docker,kubernetes,git,ruby,java,cpp,postgres,mysql,mongodb,nodejs,nextjs,expressjs,bash,figma,flask,materialui,maven,spring,nginx,rabbitmq,rails,sklearn,vscode&perline=14)](https://github.com/ItgelGanbold98)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itgelganbold98&show_icons=true&locale=en&layout=compact" alt="itgelganbold98" decoding="async" loading="lazy" /></p>
 
