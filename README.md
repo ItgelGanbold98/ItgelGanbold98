@@ -6,15 +6,15 @@
 
 - 🔭 I just finished work on [AutoMate Web Application](https://github.com/ItgelGanbold98/AutoMate-NYC) 
 
-- 🌱 I’m currently learning **React, Docker, Spring-Boot, Postgres**
+- 🌱 I’m proficient in **React, Python, Java, Docker, Sklearn** to name a few
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItgelGanbold98](https://github.com/ItgelGanbold98)
 
-- 💬 Ask me about **React, JS, Python, and all things physics and maths**
+- 💬 Ask me about **React, JS, Python, ML and all things physics and maths**
 
-- 📫 How to reach me **itgel.ganbold@ucdconnect.ie**
+- 📫 Visit my portfolio **https://itgelganbold.com**
 
-- ⚡ Fun fact **I came 8th/40 in Zero Days hackathon with 1 day to prepare!**
+- ⚡ Fun fact **I came 8th/40 in Zero Days hackathon with just 1 say of notice!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
