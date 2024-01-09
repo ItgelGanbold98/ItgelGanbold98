@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Itgel</h1>
 <h3 align="center">A passionate Computer Scientist and a Master's student at UCD, <a href='https://itgelganbold.com' target='_blank'>visit my portfolio</a> </h3> 
 <img align="right" alt="Coding" width = "400" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" decoding="async" loading="lazy" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itgelganbold98&label=Profile%20views&color=0e75b6&style=flat" alt="itgelganbold98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itgelganbold98&label=Profile%20views&color=0e75b6&style=flat" alt="itgelganbold98" width=300px/> </p>
 
 - 🔭 I just finished work on [AutoMate Web Application](https://github.com/ItgelGanbold98/AutoMate-NYC) 
 
