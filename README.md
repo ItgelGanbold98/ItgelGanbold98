@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" style="object-fit: cover; width: 666px; height: 300px;" src= "https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w" decoding="async" loading="lazy"/>
 <h1 align="center">Hi 👋, I'm Itgel</h1>
-<h3 align="center">A passionate Computer Scientist and a Master's student at UCD, <a href='https://itgelganbold.com' target='_blank'>visit my portfolio</a> </h3> 
+<h3 align="center">A passionate Computer Scientist, <a href='https://itgelganbold.com' target='_blank'>visit my portfolio</a> </h3> 
 <img align="right" alt="Coding" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" decoding="async" loading="lazy" width="300"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itgelganbold98&label=Profile%20views&color=0e75b6&style=flat" alt="itgelganbold98" /> </p>
 
