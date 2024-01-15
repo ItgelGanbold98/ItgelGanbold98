@@ -14,7 +14,7 @@
 
 - 📫 Visit my portfolio **https://itgelganbold.com**
 
-- ⚡ Fun fact **I came 8th/40 in Zero Days hackathon with just 1 say of notice!**
+- ⚡ Fun fact **I came 8th/40 in Zero Days hackathon with just 1 day of notice!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
