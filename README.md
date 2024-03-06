@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" style="object-fit: cover; width: 666px; height: 300px;" src= "https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w" decoding="async" loading="lazy"/>
+<img align="center" alt="Coding" style="object-fit: cover; width: 100%;" src= "img/background.png" decoding="async" loading="lazy"/>
 <h1 align="center">Hi 👋, I'm Itgel</h1>
 <h3 align="center">A passionate Machine Learning and Software Engineer, <a href='https://itgelganbold.com' target='_blank'>visit my portfolio</a> </h3> 
 <img align="right" alt="Coding" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" decoding="async" loading="lazy" width="300"/>
