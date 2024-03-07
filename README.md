@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" decoding="async" loading="lazy" width="300"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itgelganbold98&label=Profile%20views&color=0e75b6&style=flat" alt="itgelganbold98" /> </p>
 
-- 🔭 I just finished work on [AutoMate Web Application](https://github.com/ItgelGanbold98/AutoMate-NYC) 
+- 🔭 I recently finished work on [Keras Dataset Improvements project](https://github.com/ItgelGanbold98/Keras-Dataset-Improvement) 
 
 - 🌱 I’m proficient in **React, Python, Java, Docker, Sklearn** to name a few
 
-- 👨‍💻 All of my projects are available at [https://github.com/ItgelGanbold98](https://github.com/ItgelGanbold98)
+- 👨‍💻 See all my projects at [https://github.com/ItgelGanbold98](https://github.com/ItgelGanbold98)
 
 - 💬 Ask me about **React, JS, Python, ML and all things physics and maths**
 
